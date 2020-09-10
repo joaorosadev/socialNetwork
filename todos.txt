@@ -1,0 +1,4 @@
+Things to possibly add to the project:
+    - Email verification/ Forgot password
+    - Change UI a bit
+    - Use useDispatch instead of connect
